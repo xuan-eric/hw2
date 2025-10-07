@@ -21,6 +21,8 @@ VAE: 高穩定，Loss平滑下降
 GAN: 不穩定，出現mode collapse
 cGAN: 穩定，Loss 持續收斂
 Diffusion: 高穩定，Loss緩降至0.1
+
+5.總結
 最佳整體表現：cGAN（清晰?、穩定、可控）
 最快實驗原型：VAE（簡單快速但畫質差）
 最具潛力研究方向：Diffusion（穩定但需長訓練）
